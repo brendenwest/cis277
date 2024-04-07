@@ -10,3 +10,25 @@
 
 Note: Students should be familiar with Python programming, SQL database queries, and basic statistics.
 
+### Required Materials
+
+Students will need the following textbook and resources.
+Data Mining for Business Analytics, Shmueli
+The textbook is available at the college bookstore and at many outlets online. You may use a pre-owned paperback version of the  textbook, if available.
+
+- https://datacamp.com/  - free online service with data analysis exercises
+- https://colab.research.google.com/ - a free online programming service
+- A computer (Windows or Mac) that can run an internet browser and on which they can install necessary software.
+
+### Class Structure & Topics
+Each week students will have assigned reading, tutorials or video lectures, as well as in-class lecture and exercises covering the following topics. Sequence and precise list is subject to change as the course progresses:
+
+- Course Intro & statistics refresh
+- Intro to predictive analytics
+- Dimensionality Reduction
+- Evaluating predictions
+- Multiple linear regression
+- Classification Methods & Regression Trees
+- Logistic Regression
+- Recommendations
+- Time series forecasting
